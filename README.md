@@ -1,0 +1,2 @@
+# AndroidTest
+small project(android)
